@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+    text-align: center
+}
+
+h1 {
+    color: white;
+    font-style: italic;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.formleft {
+    text-align: right;
+    width: 170px;
+    color: white;
+}
+
+.input {
+    padding: 10px;
+}
+
+#btn-Register {
+    margin-right: 28%;
+    background-color: rgb(75, 74, 74);
+    width: 80px;
+    height: 30px;
+    color: white;
+}
+
+#btn-Register:hover {
+    background-color: rgb(31, 30, 30);
+}
+
+#btn-dangnhap_register {
+    margin-right: 28%;
+    margin-top: 1.5%;
+    width: 80px;
+    height: 30px;
+    background-color: rgb(75, 74, 74);
+    color: white;
+}
+
+#btn-dangnhap_register:hover {
+    background-color: rgb(31, 30, 30);
+}
+
+.wanning {
+    color: brown;
+}
+
+#container-register {
+    display: inline-block;
+}
+
+#form-input {
+    background-color: rgb(19, 18, 18);
+}
+
+.input_form {
+    background-color: rgb(73, 72, 72);
+    width: 250px;
+    color: white;
+}
+
+.input_form:hover {
+    background-color: rgb(51, 50, 50);
+}

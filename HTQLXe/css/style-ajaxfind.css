@@ -1,0 +1,13 @@
+#result {
+    width: auto;
+    height: 375px;
+    overflow-y: auto;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+#listfind {
+    list-style: none;
+}
